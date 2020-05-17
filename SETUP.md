@@ -17,7 +17,7 @@ C:\Program Files
 						(no spaces.)
 5.You should be in the Startup folder. Go back to the Flow Timer folder and go to the "Run".
 
-6.Right-click and hold, then drag your mouse to the Startup folder.
+6.Left-click and hold, then drag your mouse to the Startup folder.
 
 7.A menu should appear. Press the selection: "Create shortcut here"
 
@@ -30,7 +30,7 @@ computer prior the next startup.
 
 SharpKeys
 
-All you have to do to prevent most exiting is to change the following to a different key:
+All you have to do to prevent most exiting of the software is to change the following to a different key:
 
 Alt
 
@@ -39,8 +39,7 @@ Win
 Ctrl
 
 
-If you did not get SharpKeys, here is the link:
-<https://bit.ly/2TSmBiP >
+If you did not get SharpKeys, here is the link: https://bit.ly/2TSmBiP
 
 
 

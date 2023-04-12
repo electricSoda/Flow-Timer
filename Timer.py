@@ -21,8 +21,6 @@ from tkinter import *
 #initial code
 
 #root
-
-#root
 root = Tk()
 
 #onoff variable
@@ -131,10 +129,6 @@ def mainGUI():
 
     bottomFrame = Frame(root)
     bottomFrame.pack(side=BOTTOM)
-
-    ################################################
-
-
 
     quote = Label(topFrame, text = 'Quote of the day:', font = 'Helvetica 14 bold')
     quote.config(fg='red', bg='light green')
